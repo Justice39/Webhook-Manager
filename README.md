@@ -1,6 +1,6 @@
 # WebhookManager
 
-Manager your discord webhook in minimum lines.
+Manage your discord webhooks
 
 ## Installation
 
