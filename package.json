@@ -1,0 +1,15 @@
+{
+    "name": "webhook-manager",
+    "version": "1.0.0",
+    "description": "Lightweight Webhook Manager For Discord",
+    "main": "index.js",
+    "scripts": {
+        "test": "node examples.js"
+    },
+    "keywords": ["discord","webhook","webhook-manager"],
+    "author": "Justice39",
+    "license": "Apache",
+    "dependencies": {
+        "axios": "^0.27.2"
+    }
+}
