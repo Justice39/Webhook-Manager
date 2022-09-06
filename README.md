@@ -33,7 +33,7 @@ Also look examples.js
 ``````
 ## Credits
 
-Justice39
+Justice39, vixpr
 
 ## License
 
