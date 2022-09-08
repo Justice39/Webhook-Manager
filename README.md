@@ -1,10 +1,10 @@
 # Webhook Manager
 
-Manage your discord webhooks
+Manage your discord webhooks.
 
 ## Installation
 
-Install [Axios](https://axios-http.com/docs/intro) and move [manager.js](https://github.com/Justice39/Webhook-Manager/blob/main/manager.js) to your project file
+Install [Axios](https://axios-http.com/docs/intro) and move [manager.js](https://github.com/Justice39/Webhook-Manager/blob/main/manager.js) to your project file.
 
 ## Usage
 
@@ -21,7 +21,7 @@ const manager = new Manager("SuperSecretDiscordWebhookToken","SuperSecretDiscord
 
 
 
-Also look at [examples.js](https://github.com/Justice39/Webhook-Manager/blob/main/examples.js)
+Also look at [examples.js](https://github.com/Justice39/Webhook-Manager/blob/main/examples.js).
 ## Contributing
 
 ``````
