@@ -1,10 +1,10 @@
-# Webhook Manager
+# Webhook Manager 
 
 Manage your Discord webhooks.
 
 ## Installation
 
-Install [Axios](https://axios-http.com/docs/intro) and move [manager.js](https://github.com/Justice39/Webhook-Manager/blob/main/manager.js) to your project file.
+Install [Axios](https://axios-http.com/docs/intro) and move [manager.js](https://github.com/Justice39/Webhook-Manager/blob/main/manager.js) to your project folder.
 
 ## Usage
 
